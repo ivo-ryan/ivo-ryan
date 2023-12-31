@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Ryan 😁
 
-<img align="center" style="margin-bottom:100px" width=100% height=60% src="./code.jpg" />
+<img align="center" style="margin-bottom:100px" width=100% height=100px src="./code.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From development using frontend using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>frontend mid-level developer</strong> focused on web development.</p>&nbsp;
